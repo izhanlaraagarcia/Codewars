@@ -1,3 +1,6 @@
+#This is the result of the "Counting Duplicates" 6 kyu exercise in Codewars, language used: Python
+# Codewars
+
 def duplicate_count(text):
     text_lower = text.lower()
     count = 0
