@@ -19,3 +19,8 @@
 | 9 | [Counting Duplicates](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/6%20Kyu/Counting%20Duplicates.py) | Python | 6 Kyu
 
 
+![](https://www.codewars.com/users/izhanlaraagarcia/badges/small)
+
+## Signature
+
+<img src="https://avatars.githubusercontent.com/u/72951122?s=400&u=5cae1d270a908ab20448154ae3e9d718b20626b5&v=4" width="30"/> - [Izhan Lara Garcia](https://github.com/izhanlaraagarcia)
