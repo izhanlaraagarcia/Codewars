@@ -23,4 +23,4 @@
 
 ## Signature
 
-<img src="https://avatars.githubusercontent.com/u/72951122?s=400&u=5cae1d270a908ab20448154ae3e9d718b20626b5&v=4" width="30"/> - [Izhan Lara Garcia](https://github.com/izhanlaraagarcia)
+<img src="https://github.com/izhanlaraagarcia/izhanlaraagarcia/blob/main/IMG/72951122-modified.png?raw=true" width="35"/> - [Izhan Lara Garcia](https://github.com/izhanlaraagarcia)
