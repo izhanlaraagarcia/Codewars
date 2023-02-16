@@ -7,6 +7,6 @@
 I leave the table below so you can go directly to the exercise you need
 | # | Titel | Language | Difficulty |
 | :--------------: | :---------: | :----------: | :----------: |
-| 1 | [Convert a Bolean to String.py](https://github.com/izhanlaraagarcia/scripts-codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Convert%20a%20Boolean%20to%20String.py) | Python | 8 Kyu
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| 1 | [Convert a Bolean to String](https://github.com/izhanlaraagarcia/scripts-codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Convert%20a%20Boolean%20to%20String.py) | Python | 8 Kyu
+| 2 | [Even or Odd](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Even%20or%20Odd.py) | Python | 8 Kyu
+| 3 | [Is n divisible by x and y](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Is%20n%20divisible%20by%20x%20and%20y.py) | Python | 8 Kyu
