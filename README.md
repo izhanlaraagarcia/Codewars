@@ -30,6 +30,10 @@
 ![](https://www.codewars.com/users/izhanlaraagarcia/badges/small)
 
 
+## License
+
+<a href="https://github.com/izhanlaraagarcia/Codewars/blob/main/LICENSE">License - GPL-3.0 license</a>
+
 ## Signature
 
 <img src="https://github.com/izhanlaraagarcia/izhanlaraagarcia/blob/main/IMG/72951122-modified.png?raw=true" width="35"/> - [Izhan Lara Garcia](https://github.com/izhanlaraagarcia)
