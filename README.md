@@ -19,13 +19,15 @@
 | 9 | [Counting Duplicates](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/6%20Kyu/Counting%20Duplicates.py) | Python | 6 Kyu
 | 10 | [Century From Year](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Century%20From%20Year.py) | Python | 8 Kyu
 | 11 | [The 'if' function.py](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/The%20'if'%20function.py) | Python | 8 Kyu
-| 12 | [Multiply.py](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Multiply.py) | Python | 8 Kyu
+| 12 | [Multiply](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Multiply.py) | Python | 8 Kyu
 | 13 | [Vowel Count](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/7%20Kyu/Vowel%20Count.py) | Python | 7 Kyu
 | 14 | [Multiples of 3 or 5](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/6%20Kyu/Multiples%20of%203%20or%205.py) | Python | 8 Kyu
 | 15 | [Opposite Number](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Opposite%20number.py) | Python | 8 Kyu
 | 16 | [Convert a Number to a String!](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Convert%20a%20Number%20to%20a%20String!.py) | Python | 8 Kyu
 | 17 | [Convert boolean values to strings 'Yes' or 'No'.](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.py) | Python | 8 Kyu
 | 18 | [Return Negative](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/Return%20Negative.py) | Python | 8 Kyu
+| 19 | [String repeat](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/8%20Kyu/String%20repeat.py) | Python | 8 Kyu
+| 20 | [No ifs no buts](https://github.com/izhanlaraagarcia/Codewars/blob/main/codewars/KATAS%20Python/7%20Kyu/No%20ifs%20no%20buts.py) | Python | 7 Kyu
 
 ## My profile of CodeWars
 
